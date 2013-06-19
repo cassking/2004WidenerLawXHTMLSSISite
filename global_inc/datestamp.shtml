@@ -1,0 +1,1 @@
+<div id="datestamp">	<span class="nowrap"><!--#config timefmt="%a, %b %d, %Y"--><!--#echo var="DATE_LOCAL"--></span></div>

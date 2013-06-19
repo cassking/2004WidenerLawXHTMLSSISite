@@ -1,0 +1,1 @@
+AuthUserFile /home/WWW/lawschl/public/departments/career_development/jobs/.htpasswdAuthGroupFile /dev/nullAuthName "Secure Document"AuthType Basic<LIMIT GET PUT POST>require user widenerlaw</LIMIT>

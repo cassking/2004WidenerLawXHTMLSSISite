@@ -1,0 +1,1 @@
+<!--// Source: CodeFoot.comfunction blockError(){return true;}window.onerror = blockError;// -->
